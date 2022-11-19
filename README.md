@@ -1,7 +1,7 @@
 ![MasterHead](https://www.hays.es/documents/26770067/27052177/Image_Tech_Job_Data_Analyst_Science_LandingPage.jpg/55c92bd0-e5a0-0b37-5638-8f5da5bd8fad?t=1630661086208)
 <h1 align="center">Hi 👋, I'm Edgar</h1>
 <h3 align="center">A Data Scientist in training 💪</h3>
-<(img align="right" alt="Coding" width="400" src="https://assets5.lottiefiles.com/packages/lf20_tfb3estd.json")>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 - 📑 I’m in the process of getting an **MSc in Big Data at the IE School of Science & Technology.**
 
